@@ -51,9 +51,9 @@ GitHub: @shroomtop
 
 Website: shroomgpts.com (Coming Soon!)
 
-Email: (Add your preferred contact email here, if any)
+https://codepen.io/Shroomtop420
 
-Twitter/X, LinkedIn, or other socials (if applicable)
+Youtube: @Shroomtop420
 
 
 😄 Pronouns:
