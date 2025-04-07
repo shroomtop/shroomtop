@@ -1,69 +1,93 @@
-👋 Hi, I’m @shroomtop420
 
-🚀 About Me
+# ⚡ Shroomtop420® – AI DevOps for the New Era
 
-I'm an intensely goal-oriented developer, focused on AI, full-stack automation, scalable monetization, and prompt engineering. I specialize in advanced AI systems, chatbot development, and automated workflows that streamline processes across platforms. I push AI to its limits, leveraging meta-prompting, iterative feedback loops, and efficient system instruction compression to maximize performance.
+> *“Master the chaos. Code the signal.”*  
+> — Alex (@shroomtop)
 
-👀 I’m interested in
+I’m a full-stack automation architect, prompt engineer, and AI systems designer running solo ops under the **Shroomtop420®** brand. Everything I build is:
 
-AI & Automation: Building self-improving AI systems, LLM-powered tools, and integrating AI into various platforms.
+- **Self-contained**
+- **Mobile-first**
+- **AI-enhanced**
+- **Monetizable**
 
-Cybersecurity & IoT: Exploring penetration testing, secure system architectures, and Raspberry Pi automation.
+From my S24 Ultra terminal to live generative dashboards — I build tools that work **offline, online, or interdimensional**.
 
-Web & Mobile Development: Creating and monetizing web apps, Android/iOS apps, and PWA-based tools using React, Flutter, Vue.js, and Solid.js.
+---
 
-Game Development: Transitioning my extensive gaming experience into game design, AI-enhanced NPCs, and interactive storytelling.
+## 🛠️ What I Build
 
-Monetization Strategies: Turning projects into profitable ventures, with a focus on passive income, app publishing, and digital products.
+| Category           | Stack & Output                                                                  |
+|--------------------|----------------------------------------------------------------------------------|
+| **AI Agents**        | GPT-4o, MetaPrompting, 20-File Knowledge Graphs, Autonomous Prompt Chains       |
+| **Web + Mobile Apps**| PWA, Termux + Zsh, IndexedDB, Firebase, Three.js, Solid.js                      |
+| **Automators**       | JSON/CSV/PDF Generators, File Synthesizers, GPT Log Parsers                     |
+| **Data + Viz**       | SVG Graph Engines, Fractal Builders, NLP Dashboards, Kivy UI Tools              |
+| **GameDev Tools**    | AI NPC Brains, Procedural Quest Engines, Visual Novel Parsers                  |
 
+---
 
-🌱 I’m currently learning
+## ⚙️ Core Projects (Live or In Progress)
 
-Full-stack development with Node.js, PostgreSQL, and modern frameworks.
+- **🧠 Master GPT** – Custom 20-knowledge-file GPT blueprint with 8K instruction logic  
+- **🎤 OpenAI.fm Generator** – HTML5 site builder using nothing but prompts  
+- **🌀 Fractal Genesis Grid** – SVG-based, mobile-friendly fractal playground  
+- **🧾 ChatGPT Parser** – Converts all convo logs into tagged CSVs + mind maps  
+- **🔧 Shroomtop420 S420-POS** – My personal AI shell running across Termux  
 
-Advanced AI Prompt Engineering for maximum ChatGPT performance.
+---
 
-Efficient system instructions compression for ChatGPT, optimizing large instruction sets.
+## 🧠 My Dev Philosophy
 
-Backend hosting & API development for scalable AI integrations.
+- **No Dependencies Unless Necessary** – If it can't run on Termux or in a browser, it's not Shroomtop-certified.
+- **System Thinking Over Scripting** – I optimize *how* I build, not just *what* I build.
+- **AI as a Tool, Not a Crutch** – All GPTs I use are engineered with compression, recursion, and modular meta-layers.
+- **Mobile is the New Mainframe** – Everything I run executes on a Samsung Galaxy S24 Ultra.
 
-Cybersecurity fundamentals, ethical hacking, and IoT device automation.
+---
 
-SVG animations, UI/UX improvements, and interactive front-end experiences.
+## 📈 Stats That Matter
 
+- 🔁 Built **90+ GPTs**  
+- ⚒️ Designed **40+ Prompt Toolkits**  
+- 📦 Shipped **20+ Self-contained Web Utilities**  
+- 🔓 **2+ Years Sober** – all power redirected to building tools  
+- 🚀 Publishing across **CodePen**, **GitHub**, and *(soon)* the **Play Store**
 
-💞️ I’m looking to collaborate on
+---
 
-AI-driven SaaS projects that automate workflows and boost efficiency.
+## 🧪 Experiments
 
-Self-improving AI tools that generate, test, and refine code automatically.
+- GPT-powered worldbuilder using recursive NPC scripting  
+- AI-generated SVG art from live sensor/mic/GPS  
+- Unicode style engines (𝟶𝟷𝟸𝟹, 🅰🅱🅲, ᴛʜɪs ᴛᴇxᴛ)  
+- PromptChain scripting with memory checkpoints  
+- Offline GPT-assisted Python UI generator (Pydroid3)
 
-Game development experiments that explore AI-generated narratives and mechanics.
+---
 
-Open-source AI chatbots that maintain knowledge and function as personal assistants.
+## 🤝 Let’s Build Together
 
-Secure, efficient, and monetizable full-stack apps for web and mobile.
+Looking to collaborate with:
 
+- Indie AI devs building micro-SaaS or GPT utilities  
+- Cybersecurity tinkerers w/ Raspberry Pi or edge compute setups  
+- Prompt engineers pushing recursion, compression, and jailbreak tactics  
+- Devs who want to monetize *useful, weird, or beautiful AI things*
 
-📫 How to reach me
+> DM me. Fork something. Let’s make it real.
 
-GitHub: @shroomtop
+---
 
-Website: shroomgpts.com (Coming Soon!)
+## 🌍 Connect With Me
 
-https://codepen.io/Shroomtop420
+- **GitHub**: [@shroomtop](https://github.com/shroomtop)  
+- **CodePen**: [@Shroomtop420](https://codepen.io/Shroomtop420)  
+- **YouTube**: [@Shroomtop420](https://youtube.com/@Shroomtop420)  
+- **Website**: [shroomgpts.com](https://shroomgpts.com) *(coming soon)*
 
-Youtube: @Shroomtop420
+---
 
+> _If the grid collapses, I’ll still be building tools in the terminal._
 
-😄 Pronouns:
-
-He/Him
-
-⚡ Fun fact
-
-I transitioned from extensive gaming (DayZ, Skyrim, Elden Ring) to AI, cybersecurity, and monetizable coding.
-
-I optimize all my work for efficiency, automation, and maximum scalability.
-
-I built over 90 GPTs, developed custom monetization tools, and constantly refine my AI-powered workflow.
+### **Shroomtop420® – Code with Purpose. Build with Fire.**
