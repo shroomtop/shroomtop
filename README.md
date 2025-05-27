@@ -48,9 +48,9 @@ From my S24 Ultra terminal to live generative dashboards — I build tools that 
 
 ## 📈 Stats That Matter
 
-- 🔁 Built **90+ GPTs**  
-- ⚒️ Designed **40+ Prompt Toolkits**  
-- 📦 Shipped **20+ Self-contained Web Utilities**  
+- 🔁 Built **170+ GPTs**  
+- ⚒️ Designed **100+ Prompt Toolkits**  
+- 📦 Shipped **100+ Self-contained Web Utilities**  
 - 🔓 **2+ Years Sober** – all power redirected to building tools  
 - 🚀 Publishing across **CodePen**, **GitHub**, and *(soon)* the **Play Store**
 
@@ -84,7 +84,7 @@ Looking to collaborate with:
 - **GitHub**: [@shroomtop](https://github.com/shroomtop)  
 - **CodePen**: [@Shroomtop420](https://codepen.io/Shroomtop420)  
 - **YouTube**: [@Shroomtop420](https://youtube.com/@Shroomtop420)  
-- **Website**: [shroomgpts.com](https://shroomgpts.com) *(coming soon)*
+- **Website**: [Shroomtop420](https://Shroomtop420.com) 
 
 ---
 
