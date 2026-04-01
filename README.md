@@ -1,101 +1,167 @@
+# Alex (@shroomtop) — Automation Architect, AI Systems Designer, and Local-First Builder
 
-# ⚡ Shroomtop420® – AI DevOps for the New Era
+I am a full-stack automation architect and AI systems designer focused on building durable, mobile-capable, and locally controlled software systems.
 
-> *“Master the chaos. Code the signal.”*  
-> — Alex (@shroomtop)
+My work sits at the intersection of:
 
-I’m a full-stack automation architect, prompt engineer, and AI systems designer running solo ops under the **Shroomtop420®** brand. Everything I build is:
+- automation architecture
+- AI-assisted tooling
+- browser-native application design
+- mobile-first workflows
+- local-first and offline-capable systems
+- edge and embedded integration
 
-- **Self-contained**
-- **Mobile-first**
-- **AI-enhanced**
-- **Monetizable**
-
-From my S24 Ultra terminal to live generative dashboards — I build tools that work **offline, online, or interdimensional**.
-
----
-
-## 🛠️ What I Build
-
-| Category           | Stack & Output                                                                  |
-|--------------------|----------------------------------------------------------------------------------|
-| **AI Agents**        | GPT-4o, MetaPrompting, 20-File Knowledge Graphs, Autonomous Prompt Chains       |
-| **Web + Mobile Apps**| PWA, Termux + Zsh, IndexedDB, Firebase, Three.js, Solid.js                      |
-| **Automators**       | JSON/CSV/PDF Generators, File Synthesizers, GPT Log Parsers                     |
-| **Data + Viz**       | SVG Graph Engines, Fractal Builders, NLP Dashboards, Kivy UI Tools              |
-| **GameDev Tools**    | AI NPC Brains, Procedural Quest Engines, Visual Novel Parsers                  |
+I build tools with a strong bias toward portability, operational clarity, and real-world utility. The goal is not simply to prototype ideas, but to design systems that can be reused, extended, packaged, and deployed across practical environments.
 
 ---
 
-## ⚙️ Core Projects (Live or In Progress)
+## Professional Focus
 
-- **🧠 Master GPT** – Custom 20-knowledge-file GPT blueprint with 8K instruction logic  
-- **🎤 OpenAI.fm Generator** – HTML5 site builder using nothing but prompts  
-- **🌀 Fractal Genesis Grid** – SVG-based, mobile-friendly fractal playground  
-- **🧾 ChatGPT Parser** – Converts all convo logs into tagged CSVs + mind maps  
-- **🔧 Shroomtop420 S420-POS** – My personal AI shell running across Termux  
+My current work emphasizes:
 
----
-
-## 🧠 My Dev Philosophy
-
-- **No Dependencies Unless Necessary** – If it can't run on Termux or in a browser, it's not Shroomtop-certified.
-- **System Thinking Over Scripting** – I optimize *how* I build, not just *what* I build.
-- **AI as a Tool, Not a Crutch** – All GPTs I use are engineered with compression, recursion, and modular meta-layers.
-- **Mobile is the New Mainframe** – Everything I run executes on a Samsung Galaxy S24 Ultra.
+- **Local-first software** that remains useful without constant cloud dependence
+- **Mobile-native workflows** that operate well on Android and Termux-based environments
+- **Browser-based tools** built with minimal dependencies and strong deployment portability
+- **AI system design** oriented around leverage, structure, and repeatable workflows
+- **Automation infrastructure** that supports packaging, deployment, and monetization
+- **Edge-aware development** spanning Raspberry Pi, microcontroller-class hardware, and device-adjacent interfaces
 
 ---
 
-## 📈 Stats That Matter
+## Technical Profile
 
-- 🔁 Built **170+ GPTs**  
-- ⚒️ Designed **100+ Prompt Toolkits**  
-- 📦 Shipped **100+ Self-contained Web Utilities**  
-- 🔓 **2+ Years Sober** – all power redirected to building tools  
-- 🚀 Publishing across **CodePen**, **GitHub**, and *(soon)* the **Play Store**
+I design and ship systems across the following areas:
 
----
+### Application Development
+- HTML5, CSS3, ES6+
+- Tailwind-based interfaces
+- IndexedDB and local persistence
+- Service Workers and offline-first patterns
+- Canvas, SVG, and interactive visual systems
+- Progressive Web App architecture
 
-## 🧪 Experiments
+### Automation and Tooling
+- prompt systems and AI workflow design
+- structured automation pipelines
+- local utility tooling
+- parsing, generation, and transformation workflows
+- deployment-minded developer tooling
 
-- GPT-powered worldbuilder using recursive NPC scripting  
-- AI-generated SVG art from live sensor/mic/GPS  
-- Unicode style engines (𝟶𝟷𝟸𝟹, 🅰🅱🅲, ᴛʜɪs ᴛᴇxᴛ)  
-- PromptChain scripting with memory checkpoints  
-- Offline GPT-assisted Python UI generator (Pydroid3)
+### Mobile and Local Environments
+- Android-first workflows
+- Termux-based development
+- lightweight local runtimes
+- constrained-environment tool design
+- mobile operator interfaces
 
----
-
-## 🤝 Let’s Build Together
-
-Looking to collaborate with:
-
-- Indie AI devs building micro-SaaS or GPT utilities  
-- Cybersecurity tinkerers w/ Raspberry Pi or edge compute setups  
-- Prompt engineers pushing recursion, compression, and jailbreak tactics  
-- Devs who want to monetize *useful, weird, or beautiful AI things*
-
-> DM me. Fork something. Let’s make it real.
-
----
-
-## 🌍 Connect With Me
-
-- **GitHub**: [@shroomtop](https://github.com/shroomtop)  
-- **CodePen**: [@Shroomtop420](https://codepen.io/Shroomtop420)  
-- **YouTube**: [@Shroomtop420](https://youtube.com/@Shroomtop420)  
-- **Website**: [Shroomtop420](https://Shroomtop420.com) 
+### Systems and Edge Direction
+- Raspberry Pi-oriented workflows
+- embedded and device-adjacent integration
+- ADB-aware control concepts
+- browser-to-device control surfaces
+- offline-capable operational tooling
 
 ---
 
-> _If the grid collapses, I’ll still be building tools in the terminal._
+## Engineering Approach
 
-### **Shroomtop420® – Code with Purpose. Build with Fire.**
+My engineering approach is defined by a few consistent priorities:
 
-<!-- SHROOMTOP420-MONETIZATION-BLOCK-START -->
-## 🚀 Support & Commercial Use
+- **Build for reality**  
+  I prioritize systems that are usable, maintainable, and resilient outside ideal demo conditions.
 
-- **Donate or support ongoing dev:** [Buy Me A Coffee](https://buymeacoffee.com/shroomtop420)
+- **Favor portability**  
+  I design for workflows that can move across phone, laptop, browser, and edge environments with minimal friction.
 
-> *Commercial use requires license. See LICENSE for terms.*
-<!-- SHROOMTOP420-MONETIZATION-BLOCK-END -->
+- **Keep dependencies intentional**  
+  I prefer simple, inspectable, and self-contained architectures whenever possible.
+
+- **Think in systems**  
+  I focus on structure, reuse, interfaces, constraints, and upgrade paths rather than isolated features.
+
+- **Optimize for leverage**  
+  Good tools should reduce friction, increase output, and create durable value over time.
+
+---
+
+## Areas of Strength
+
+My strongest areas currently include:
+
+- automation architecture
+- prompt engineering and AI systems design
+- local-first application patterns
+- mobile-first development workflows
+- browser-native software design
+- structured tool and interface creation
+- productization-minded system design
+- cross-domain integration thinking
+- reusable framework development
+- operationally practical software design
+
+---
+
+## Growth and Direction
+
+My work has evolved from high-output experimentation and self-contained utilities into broader systems design with stronger architectural discipline.
+
+That growth includes a shift:
+
+- from isolated tools to connected systems
+- from experimentation to reusable infrastructure
+- from rapid output to durable design
+- from narrow utilities to broader operator tooling
+- from feature-building to architecture-building
+
+I am particularly interested in building systems that combine software leverage, local control, and long-term extensibility.
+
+---
+
+## What I Value in Software
+
+I take software seriously when it is:
+
+- useful
+- durable
+- understandable
+- portable
+- efficient
+- extensible
+- operationally clear
+- respectful of user control
+
+These values shape how I build, how I evaluate tools, and how I approach future systems.
+
+---
+
+## Collaboration
+
+I am especially interested in collaborating with people working on:
+
+- local-first applications
+- AI tooling and evaluation systems
+- browser-native products
+- mobile-first developer workflows
+- embedded and edge-connected tools
+- automation platforms
+- reusable developer infrastructure
+- practical, monetizable software products
+
+I value technical seriousness, strong design judgment, and builders who care about long-term quality.
+
+---
+
+## Connect
+
+- **GitHub:** [@shroomtop](https://github.com/shroomtop)
+- **CodePen:** [@Shroomtop420](https://codepen.io/Shroomtop420)
+- **YouTube:** [@Shroomtop420](https://youtube.com/@Shroomtop420)
+- **Website:** [Shroomtop420](https://Shroomtop420.com)
+
+---
+
+## Support & Commercial Use
+
+- **Support ongoing work:** [Buy Me A Coffee](https://buymeacoffee.com/shroomtop420)
+
+Commercial use requires a license. See `LICENSE` for terms.
